@@ -141,3 +141,8 @@ printf("%.2le\n", 0.0000314);
   
 ![img.png](image/img8.png)  
   
+# **정수 상수와 실수 상수의 컴파일**  
+정수 10과 실수 10.0 컴파일  
+![img.png](image/img9.png)  
+  
+
