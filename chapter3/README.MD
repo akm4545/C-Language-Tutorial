@@ -5,3 +5,19 @@
   
 ![img.png](image/img.png)  
   
+# **변수 선언 방법**  
+![img.png](image/img2.png)  
+  
+프로그램이 종료되면 선언된 값은 의미가 없으므로 이를 쓰레기값(garbage value)이라고 한다. 이 쓰레기 값 때문에 프로그램에 오류가 생길 수 있으므로 반드시 
+원하는 값으로 바꾸는 초기화 과정이 필요하다.  
+  
+![img.png](image/img3.png)  
+  
+3-1 -> 3-1.c   
+  
+a = 10;  
+b = a;  
+  
+위와 같이 변수의 용도가 다름을 설명하기 위해 저장 공간으로 사용하는 변수를 l-value(left value), 값으로 사용하는 변수를 r-value(right value)
+로 구분하기도 한다.  
+  
