@@ -10,5 +10,5 @@ int main(void){
     printf("증감 연산 후 초깃값 a = %d, b = %d\n", a, b);
     printf("전위형: (++a) * 3 = %d, 후위형: (b++) * 3 = %d\n", pre, post);
 
-    return -;
+    return 0;
 }
